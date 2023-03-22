@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎Hi, I am a bachelor in Business Informatics at the University of Costa Rica.<br>🤓I have focused on preparing myself to work mainly on the front-end but also on the back-end with some of the most used technologies 👨‍💻 and tools today. I love to continue learning, therefore, I try to stay updated or at least aware of technological trends.<br>
+😎Hi, I am a bachelor in Business Computing at the University of Costa Rica.<br>🤓I have focused on preparing myself to work mainly on the front-end but also on the back-end with some of the most used technologies 👨‍💻 and tools today. I love to continue learning, therefore, I try to stay updated or at least aware of technological trends.<br>
 
 
 ## 🌐 Socials:
