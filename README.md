@@ -1,8 +1,8 @@
-<header align="center">
+<div align="center">
   <a href="https://wilmerlc.com/">
     <img src="https://res.cloudinary.com/wils09/image/upload/v1681429600/GitHub/readme_header_pnshmx.png" alt="Header" />
   </a>
-</header>
+</div>
 
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=2BBC8A&background=1FAEA800&center=true&vCenter=true&width=500&height=80&lines=Hello%2C+there!;This+is+Wilmer+L%C3%B3pez...;Junior+Full+Stack+Developer;Nice+to+meet+you!" alt="Typing SVG" />
