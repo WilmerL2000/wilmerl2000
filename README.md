@@ -1,3 +1,7 @@
+<h1 align="center"> 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=1C8BC0&background=1FAEA800&center=true&vCenter=true&width=440&height=80&lines=Hello%2C+there!;This+is+Wilmer+L%C3%B3pez...;Junior+Full+Stack+Developer;Nice+to+meet+you!)](https://git.io/typing-svg)
+</h1>
+
 # 💫 About Me:
 😎Hi, I am a bachelor in Business Computing at the University of Costa Rica.<br>🤓I have focused on preparing myself to work mainly on the front-end but also on the back-end with some of the most used technologies 👨‍💻 and tools today. I love to continue learning, therefore, I try to stay updated or at least aware of technological trends.<br>
 
