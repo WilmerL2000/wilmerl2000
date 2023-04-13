@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://wilmerlc.com/">
+  <a href="https://wilmerlc.com/" target="_blank">
     <img src="https://res.cloudinary.com/wils09/image/upload/v1681429600/GitHub/readme_header_pnshmx.png" alt="Header" />
   </a>
 </div>
