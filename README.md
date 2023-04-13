@@ -1,5 +1,7 @@
 <header align="center">
-  [![Header](https://res.cloudinary.com/wils09/image/upload/v1681429600/GitHub/readme_header_pnshmx.png "Header")](https://wilmerlc.com/)
+  <a href="https://wilmerlc.com/">
+    < img src="https://res.cloudinary.com/wils09/image/upload/v1681429600/GitHub/readme_header_pnshmx.png" />
+  </a>
 </header>
 
 <h1 align="center"> 
