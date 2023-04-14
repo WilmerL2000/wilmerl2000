@@ -148,7 +148,7 @@ me.thingsINormallyDo();
 </details>
 
 <details open> 
-  <summary><h2><img src="https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif" width="50"> Projects</h2>
+  <summary><h2><img src="https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif" width="50"> Some Projects</h2>
   
   > Some projects that I have developed.</summary>
   
