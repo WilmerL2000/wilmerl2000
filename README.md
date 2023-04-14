@@ -18,8 +18,8 @@ class Wilmer {
     this.position = 'Junior Full Stack';
     this.web = 'https://wilmerlc.com/';
     this.education = {
-      university: 'Costa Rica University',
-      career: 'Business Computing'
+      university: '🏢Costa Rica University',
+      career: '🎓Business Computing'
     };
     this.currentLocation = 'Puntarenas, Golfito';
     this.architecture = ["MVC", "Progressive web applications", "Single page applications"];
