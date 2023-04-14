@@ -8,8 +8,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=2BBC8A&background=1FAEA800&center=true&vCenter=true&width=500&height=80&lines=Hello%2C+there!;This+is+Wilmer+L%C3%B3pez...;Junior+Full+Stack+Developer;Nice+to+meet+you!" alt="Typing SVG" />
 </h1>
 
-# 💫 About Me:
-😎Hi, I am a bachelor in Business Computing at the University of Costa Rica.<br>🤓I have focused on preparing myself to work mainly on the front-end but also on the back-end with some of the most used technologies 👨‍💻 and tools today. I love to continue learning, therefore, I try to stay updated or at least aware of technological trends.<br>
+# A little more about me...:
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 
 ## 🌐 Socials:
