@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=2BBC8A&background=1FAEA800&center=true&vCenter=true&width=500&height=80&lines=Hello%2C+there!;This+is+Wilmer+L%C3%B3pez...;Junior+Full+Stack+Developer;Nice+to+meet+you!" alt="Typing SVG" />
 </h1>
 
-# A little more about me...:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  A little more about me...:
 ```javascript
 class Wilmer {
   constructor() {
@@ -18,7 +18,7 @@ class Wilmer {
     this.position = 'Junior Full Stack';
     this.web = 'https://wilmerlc.com/';
     this.education = {
-      university: '🏢Costa Rica University',
+      university: '📚Costa Rica University',
       career: '🎓Business Computing'
     };
     this.currentLocation = 'Puntarenas, Golfito';
