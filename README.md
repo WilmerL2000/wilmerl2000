@@ -158,11 +158,11 @@ me.thingsINormallyDo();
         <a href="https://github.com/WilmerL2000/portfolio"><img width="400" height="auto" src="https://res.cloudinary.com/wils09/image/upload/v1681443650/GitHub/portfolio_czef86.gif" alt="github-portfolio"></a>
       </td>
       <td>
-        <a href="https://github.com/WilmerL2000/chat-app"><img width="400" height="auto" src="https://res.cloudinary.com/wils09/image/upload/v1681442644/GitHub/chat-app_qianyq.gif" alt="github-chat-app"></a>
+        <a href="https://github.com/WilmerL2000/chat-app"><img width="400" height="auto" src="https://res.cloudinary.com/wils09/image/upload/v1681448051/GitHub/chat-app_lutkfx.gif" alt="github-chat-app"></a>
       </td>
     </tr>
       <td>
-          <a href="https://github.com/WilmerL2000/youtube-clone-app"><img width="400" height="auto" src="https://res.cloudinary.com/wils09/image/upload/v1681444800/GitHub/yt-clone-app_dsyqpk.gif" alt="github-youtube-clone-app"></a>
+          <a href="https://github.com/WilmerL2000/youtube-clone-app"><img width="400" height="auto" src="https://res.cloudinary.com/wils09/image/upload/v1681448055/GitHub/yt_-clone-app_cxqtt7.gif" alt="github-youtube-clone-app"></a>
         </td>
         <td>
           <a href="https://github.com/WilmerL2000/ai-image-generator-app"><img width="400" height="auto" src="https://res.cloudinary.com/wils09/image/upload/v1681444301/GitHub/ai-image-generator-app.gif" alt="github-ai-image-generator-app"></a>
