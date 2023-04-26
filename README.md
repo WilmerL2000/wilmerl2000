@@ -172,6 +172,9 @@ me.thingsINormallyDo();
       <td>
           <a href="https://github.com/WilmerL2000/fitness-club-app"><img width="400" height="auto" src="https://res.cloudinary.com/wils09/image/upload/v1681444991/GitHub/exercise-app_nuxozi.gif" alt="github-fitness-club-app"></a>
         </td>
+        <td>
+          <a href="https://github.com/WilmerL2000/tiktok-clone-app"><img width="400" height="auto" src="https://res.cloudinary.com/wils09/image/upload/v1682488712/GitHub/tiktok-clone-app_mhsafy.gif" alt="github-fitness-club-app"></a>
+        </td>
     <tr>
     
   </table>
