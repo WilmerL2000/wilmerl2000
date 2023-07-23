@@ -1,9 +1,3 @@
-<div align="center" >
-  <a href="https://wilmerlc.com/" target="_blank">
-    <img style="border-radius:10px" src="https://res.cloudinary.com/wils09/image/upload/v1681429600/GitHub/readme_header_pnshmx.png" alt="Header" />
-  </a>
-</div>
-
 <h1 align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=2BBC8A&background=1FAEA800&center=true&vCenter=true&width=500&height=80&lines=Hello%2C+there!;This+is+Wilmer+L%C3%B3pez...;Junior+Full+Stack+Developer;Nice+to+meet+you!" alt="Typing SVG" />
 </h1>
@@ -25,7 +19,7 @@ class Wilmer {
     this.fullName = 'Wilmer Alesandro Lopez Cespedes';
     this.age = '22';
     this.hobbies = ['Programming', 'Exercise', 'Playing video games'];
-    this.position = 'Junior Full Stack Developer';
+    this.position = 'Front-End Developer';
     this.web = 'https://wilmerlc.com/';
     this.education = {
       university: '📚Costa Rica University',
@@ -39,21 +33,7 @@ class Wilmer {
     ];
     this.currentFocus = 'Writing code and learn anythings about it';
   }
-
-  myself = () => {
-    console.log(`${this.fullName} || ${this.age} || ${this.position}`);
-  };
-
-  thingsINormallyDo = () => {
-    console.log(`${this.hobbies.join('||')}`);
-  };
 }
-
-const me = new Wilmer();
-
-me.myself();
-
-me.thingsINormallyDo();
 ```
 
 <details open>
