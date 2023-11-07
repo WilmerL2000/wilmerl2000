@@ -150,7 +150,7 @@ class Wilmer {
           <a href="https://github.com/WilmerL2000/airbnb-clone-app"><img width="400" height="auto" src="https://res.cloudinary.com/wils09/image/upload/v1686198213/GitHub/airbnb-clone/home_tw61su.jpg" alt="Airbnb Clone"></a>
         </td>
         <td>
-          <a href="https://github.com/WilmerL2000/tiktok-clone-app"><img width="400" height="auto" src="https://res.cloudinary.com/wils09/image/upload/v1682488712/GitHub/tiktok-clone-app_mhsafy.gif" alt="Tik Tok Clone"></a>
+          <a href="https://github.com/WilmerL2000/discord-clone"><img width="400" height="auto" src="https://res.cloudinary.com/wils09/image/upload/v1699306004/GitHub/discord-clone/home_akmwsy.webp" alt="Discord Clone"></a>
         </td>
     <tr>
     
