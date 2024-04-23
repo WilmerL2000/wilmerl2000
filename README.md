@@ -16,7 +16,6 @@ class Wilmer {
     this.fullName = 'Wilmer Alesandro Lopez Cespedes';
     this.age = '23';
     this.hobbies = ['Programming', 'Exercise', 'Playing video games'];
-    this.position = 'Front-End Developer';
     this.education = {
       university: '📚Costa Rica University',
       career: '🎓Business Computing',
