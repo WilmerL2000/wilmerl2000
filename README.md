@@ -21,7 +21,7 @@ class Wilmer {
       career: '🎓Business Computing',
     };
     this.currentLocation = 'Cartago, La Unión, San Diego';
-    this.currentFocus = 'Writing code and learn anythings about it';
+    this.currentFocus = 'Writing code and learning cloud computing';
   }
 }
 ```
