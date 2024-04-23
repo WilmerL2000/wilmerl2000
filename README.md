@@ -1,6 +1,4 @@
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=2BBC8A&center=true&vCenter=true&width=435&lines=Hello%2C+there!;This+is+Wilmer+Lopez;Front-End+Developer;Nice+to+meet+you!" alt="Typing SVG" />
-</h1>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wilmer-lopez-cespedes/" target="_blank">
